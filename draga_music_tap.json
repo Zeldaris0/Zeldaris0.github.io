@@ -1,8 +1,8 @@
 {
-    "link":"com.tubemusicdownloader.mp3musicdownloader",
-    "image":"https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw",
-    "button":"Update",
-    "desc":"A new version is available, update the app right now and enjoy new features.",
-    "show":false,
+    "link":"com.craftcitiyrunner.abadagames",
+    "image":"https://play-lh.googleusercontent.com/Li40LmWZZ0lEpfLRTXUHuzI0ppCo17LnyCbJxaoxLbfea1-3DfKkV-gOOqbpQ6gz6w=s180-rw",
+    "button":"Download",
+    "desc":"Download our new game and get unlimited songs download for free",
+    "show":true,
     "is_package":true
 }
