@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/Li40LmWZZ0lEpfLRTXUHuzI0ppCo17LnyCbJxaoxLbfea1-3DfKkV-gOOqbpQ6gz6w=s180-rw",
     "button":"Download",
     "desc":"Download our new game and get unlimited songs download for free",
-    "show":true,
+    "show":false,
     "is_package":true
 }
