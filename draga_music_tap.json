@@ -1,8 +1,8 @@
 {
-    "link":"com.craftcitiyrunner.abadagames",
-    "image":"https://play-lh.googleusercontent.com/Li40LmWZZ0lEpfLRTXUHuzI0ppCo17LnyCbJxaoxLbfea1-3DfKkV-gOOqbpQ6gz6w=s180-rw",
+    "link":"com.video_downloader_app.snaptube_vidmate_download.mp4_video_downloader_snaptube",
+    "image":"https://play-lh.googleusercontent.com/VWqeCgGM_Glv4VVFHFPGYBaA-W9PpsmDNlaXtB4i8ewFOqZY1u9Zv5DokDtMs0zj9W8=s180-rw",
     "button":"Download",
-    "desc":"Download our new game and get unlimited songs download for free",
-    "show":false,
+    "desc":"Download our Video Downloader and get unlimited songs and video download for free",
+    "show":true,
     "is_package":true
 }
