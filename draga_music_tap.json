@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/VWqeCgGM_Glv4VVFHFPGYBaA-W9PpsmDNlaXtB4i8ewFOqZY1u9Zv5DokDtMs0zj9W8=s180-rw",
     "button":"Download",
     "desc":"Download our Video Downloader and get unlimited songs and video download for free",
-    "show":true,
+    "show":false,
     "is_package":true
 }
