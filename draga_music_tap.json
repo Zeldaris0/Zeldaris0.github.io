@@ -1,8 +1,8 @@
 {
-    "link":"com.saptube_video_downloader.snap_videosaver.mp4_video_downloader_free",
-    "image":"https://play-lh.googleusercontent.com/1e8MZyY-3srVlrr7T-y9sjJwrRqgDzVx7Cvzd0QWnjn1SpomBXJW3h8AoWTotyzm_YoD=s360-rw",
-    "button":"Download",
-    "desc":"GET our Video Downloader and get unlimited songs and video download for free",
-    "show":false,
+    "link":"com.musicdownloader.descargar_music_mp3",
+    "image":"https://play-lh.googleusercontent.com/zj_nQplsSemgcmjtVqn2TPnHqzS5zmOAo8mcL9HJmjKwdvMvSABwMaS7KY_NWejd-Q=s360-rw",
+    "button":"Rate",
+    "desc":"Give the app a good rating and get unlimited downloads forever",
+    "show":true,
     "is_package":true
 }
