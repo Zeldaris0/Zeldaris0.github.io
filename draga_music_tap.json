@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/zj_nQplsSemgcmjtVqn2TPnHqzS5zmOAo8mcL9HJmjKwdvMvSABwMaS7KY_NWejd-Q=s360-rw",
     "button":"Rate",
     "desc":"Give the app a good rating and get unlimited downloads forever",
-    "show":true,
+    "show":false,
     "is_package":true
 }
