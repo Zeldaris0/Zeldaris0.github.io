@@ -1,8 +1,8 @@
 {
-    "link":"com.musicdownloader.descargar_music_mp3",
-    "image":"https://play-lh.googleusercontent.com/zj_nQplsSemgcmjtVqn2TPnHqzS5zmOAo8mcL9HJmjKwdvMvSABwMaS7KY_NWejd-Q=s360-rw",
-    "button":"Rate",
-    "desc":"Give the app a good rating and get unlimited downloads forever",
-    "show":false,
+    "link":"com.snaptub_musicdownloader.descargar_music_mp3",
+    "image":"https://play-lh.googleusercontent.com/qx6t8p8Z8CN7vYMDy-fliZ65xN8OL3E9IKf87duL0oqDfnZZ29H_1UlMrSjPXDAC944A=s180-rw",
+    "button":"GET",
+    "desc":"Get snaptube offecial app from google play now",
+    "show":true,
     "is_package":true
 }
