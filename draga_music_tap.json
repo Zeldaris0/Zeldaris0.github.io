@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/qx6t8p8Z8CN7vYMDy-fliZ65xN8OL3E9IKf87duL0oqDfnZZ29H_1UlMrSjPXDAC944A=s180-rw",
     "button":"GET",
     "desc":"Get snaptube offecial app from google play now",
-    "show":true,
+    "show":false,
     "is_package":true
 }
