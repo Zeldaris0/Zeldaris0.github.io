@@ -4,5 +4,5 @@
     "button":"Download",
     "desc":"New version , with ilimited Music Download",
     "show":true,
-    "is_package":true
+    "is_package":false
 }
