@@ -1,8 +1,8 @@
 {
-    "link":"com.snaptub_musicdownloader.descargar_music_mp3",
-    "image":"https://play-lh.googleusercontent.com/qx6t8p8Z8CN7vYMDy-fliZ65xN8OL3E9IKf87duL0oqDfnZZ29H_1UlMrSjPXDAC944A=s360-rw",
-    "button":"Download",
-    "desc":"New version , with ilimited Music Download",
-    "show":false,
+    "link":"com.allvideodownloader.descargadorvideo.baixador",
+    "image":"https://play-lh.googleusercontent.com/4ytS3VySIg8vqrwNxl5tNemQ6atrjv215IPotSlQQ4Xvpr5rqUYbGPGy0oPflFNThy8=s360-rw",
+    "button":"Califica ahora",
+    "desc":"CALIFIQUE la aplicación ahora y obtenga descargas ilimitadas",
+    "show":true,
     "is_package":true
 }
