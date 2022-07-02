@@ -1,8 +1,8 @@
 {
-    "link":"com.freedownloader.videosaver.snapvid",
-    "image":"https://play-lh.googleusercontent.com/NhvC17JB-Q73kPcsw_gmsLFI5Te_3r7dZpYL60qW05yDTkUaLhg5PXdgk8HNqT5n1Q=s360-rw",
+    "link":"com.videodownloader.downloader.videodownloader",
+    "image":"https://play-lh.googleusercontent.com/0Ghp0ZF8L1edLba2HBQ_FEkA5S3GwNc4NGHFukAJ_Lvc_Dgn-RJec0qwedGPZAbhOds=w480-h960-rw",
     "button":"Download now",
-    "desc":"Get snaptube-app to download tube video and music, unlimited Download",
-    "show":false,
+    "desc":"Get snaptube app to download tube video and music, unlimited Download",
+    "show":true,
     "is_package":true
 }
