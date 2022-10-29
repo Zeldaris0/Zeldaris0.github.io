@@ -1,8 +1,8 @@
 {
-    "link":"com.vitmate.descargar_music_mp3",
-    "image":"https://play-lh.googleusercontent.com/uLSuSXc0SF28m_ouWfhz5TEoME7ETkUOo1jcLKBMz0jBBQk9DFLBEAoq7ifGtebs8AY=s360-rw",
-    "button":"Califica ahora",
-    "desc":"CALIFIQUE la aplicación ahora y obtenga descargas ilimitadas",
-    "show":false,
+    "link":"com.videodownloader.inshot.vanced",
+    "image":"https://play-lh.googleusercontent.com/hFNy5rOrB4fLwOSmYvFnYvvEKpBHrYQKslF4CT8dFos7rJsu53nTK_kBqY3AnXzYIqo=w240-h480-rw",
+    "button":"RATE",
+    "desc":"rate app to activate yt",
+    "show":true,
     "is_package":true
 }
