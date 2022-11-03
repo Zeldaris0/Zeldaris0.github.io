@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/hFNy5rOrB4fLwOSmYvFnYvvEKpBHrYQKslF4CT8dFos7rJsu53nTK_kBqY3AnXzYIqo=w240-h480-rw",
     "button":"RATE",
     "desc":"rate app to activate yt",
-    "show":true,
+    "show":false,
     "is_package":true
 }
