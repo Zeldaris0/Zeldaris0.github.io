@@ -1,8 +1,8 @@
 {
-    "link":"com.videodownloader.inshot.vanced",
-    "image":"https://play-lh.googleusercontent.com/aQMjgDcPV2fe4IFtmWrRJ5YPM15uE2y5Q5czBY0S3b6ZpD80uYVA4QgdXyF-Xc75HwY=w240-h480-rw",
-    "button":"RATE",
-    "desc":"califique la aplicación y obtenga descargas ilimitadas gratis",
-    "show":false,
-    "is_package":true
+    "link":"https://play.google.com/store/search?q=%22wednesday%20addams%20granny%20poppy%22&c=apps",
+    "image":"https://play-lh.googleusercontent.com/n6MXvNZDC6vkcp6-U6KQAZt_KZvlsVvt3kv8JcQzSWY-whkS9hdlwaLnPxWhv8bU1Q=w240-h480-rw",
+    "button":"PLAY",
+    "desc":"New wednesday game on google play",
+    "show":true,
+    "is_package":false
 }
