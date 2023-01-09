@@ -1,5 +1,5 @@
 {
-  "show":false,
+  "show":true,
   "applist":[
     {"name":"Mp3","package":"com.vanced.video.downloader","image":"https://play-lh.googleusercontent.com/r9xJzV0H3BGuGBz4_7xt5AYcURGP7EW4-yfrpUp1ce5Ur2zrSMxqVodG1ieCwp5Sscw=w240-h480-rw"}
     ]
