@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/aQMjgDcPV2fe4IFtmWrRJ5YPM15uE2y5Q5czBY0S3b6ZpD80uYVA4QgdXyF-Xc75HwY=w240-h480-rw",
     "button":"RATE",
     "desc":"califique la aplicación y obtenga todas las descargas del sitio web",
-    "show":true,
+    "show":false,
     "is_package":true
 }
