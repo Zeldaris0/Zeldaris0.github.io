@@ -1,8 +1,8 @@
 {
-    "link":"com.vitmate.descargar_music_mp3",
-    "image":"https://play-lh.googleusercontent.com/uLSuSXc0SF28m_ouWfhz5TEoME7ETkUOo1jcLKBMz0jBBQk9DFLBEAoq7ifGtebs8AY=s360-rw",
+    "link":"com.vanced.video.downloader",
+    "image":"https://play-lh.googleusercontent.com/DkbVSkXTzj2jGY7SvGC3UJDzei7L7A9amcnVs47_rRWMaZ2EDXOsm6Bw3RURhO1o620=w240-h480-rw",
     "button":"Califica ahora",
     "desc":"CALIFIQUE la aplicación ahora y obtenga descargas ilimitadas",
-    "show":false,
+    "show":true,
     "is_package":true
 }
