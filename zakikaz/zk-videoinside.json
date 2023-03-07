@@ -1,7 +1,6 @@
 {
-  "show":false,
+  "show":true,
   "applist":[
-    {"name":"Photo Editor","package":"com.photocollageeditor.photoeditor","image":"https://play-lh.googleusercontent.com/kAM9MSxer9KgtIAtqg3vAlUirh9IQHZ91rCBlSGXNUK05bZ-QJOfLJCNIi-7hSeviguF=s360-rw"},
-    {"name":"MP3 Downloader","package":"com.photocollageeditor.photoeditor","image":"https://play-lh.googleusercontent.com/kAM9MSxer9KgtIAtqg3vAlUirh9IQHZ91rCBlSGXNUK05bZ-QJOfLJCNIi-7hSeviguF=s360-rw"}
+    {"name":"MP3","package":"com.vanced.video.saver","image":"https://play-lh.googleusercontent.com/L_jN4VRf0Jcm_j-yV0E71rKwyDPLvPLH7jGcvmsC-HZdMQ6r4JbwZdy755N1gp2S1u8=w240-h480-rw"}
     ]
 }
