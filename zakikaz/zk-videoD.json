@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/DkbVSkXTzj2jGY7SvGC3UJDzei7L7A9amcnVs47_rRWMaZ2EDXOsm6Bw3RURhO1o620=w240-h480-rw",
     "button":"RATE",
     "desc":"congrats you have got unlimited downloads, can you please rate App",
-    "show":true,
+    "show":false,
     "is_package":true
 }
