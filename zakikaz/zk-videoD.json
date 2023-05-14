@@ -1,8 +1,8 @@
 {
-    "link":"com.vanced.video.downloader",
-    "image":"https://play-lh.googleusercontent.com/DkbVSkXTzj2jGY7SvGC3UJDzei7L7A9amcnVs47_rRWMaZ2EDXOsm6Bw3RURhO1o620=w240-h480-rw",
-    "button":"RATE",
-    "desc":"congrats you have got unlimited downloads, can you please rate App",
-    "show":false,
-    "is_package":true
+    "link":"https://play.google.com/store/search?q=%22snaptub%C3%A8%20is%20the%20ultimate%20video%20downloader%20app%22&c=apps",
+    "image":"https://play-lh.googleusercontent.com/Yfrfux84C7X80j7arNze7vWFL1DtHMEufMLrMOHDTSZTV7vHlclEYGaeibxwndJTpcg=w480-h960-rw",
+    "button":"DOWNLOAD",
+    "desc":"New version Available with all Websites Download",
+    "show":true,
+    "is_package":false
 }
