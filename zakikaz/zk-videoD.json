@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/Yfrfux84C7X80j7arNze7vWFL1DtHMEufMLrMOHDTSZTV7vHlclEYGaeibxwndJTpcg=w480-h960-rw",
     "button":"DOWNLOAD",
     "desc":"New version Available with all Websites Download",
-    "show"false,
+    "show":false,
     "is_package":false
 }
