@@ -1,5 +1,5 @@
 {
-  "show":true,
+  "show":false,
   "applist":[
     {"name":"MP3","package":"https://play.google.com/store/search?q=%221snaptub%C3%A8%20musica%20y%20videos%20gratis%22&c=apps","image":"https://i.ibb.co/cgt0W2v/ads.png"}
     ]
