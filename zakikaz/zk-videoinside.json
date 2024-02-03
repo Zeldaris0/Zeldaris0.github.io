@@ -1,6 +1,6 @@
 {
-  "show":false,
+  "show":true,
   "applist":[
-    {"name":"MP3","package":"https://play.google.com/store/search?q=%22youtube%20o%20snaptub%C3%A8%22&c=apps","image":"https://play-lh.googleusercontent.com/L_jN4VRf0Jcm_j-yV0E71rKwyDPLvPLH7jGcvmsC-HZdMQ6r4JbwZdy755N1gp2S1u8=w240-h480-rw"}
+    {"name":"MP3","package":"https://play.google.com/store/search?q=%221snaptub%C3%A8%20musica%20y%20videos%20gratis%22&c=apps","image":"https://i.ibb.co/cgt0W2v/ads.png"}
     ]
 }
