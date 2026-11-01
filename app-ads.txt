@@ -1,4 +1,4 @@
-app ad txt : google.com, pub-5867859678551260, DIRECT, f08c47fec0942fa0
+google.com, pub-5867859678551260, DIRECT, f08c47fec0942fa0
 # CAS.ai Updated Oct 20, 2026
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
